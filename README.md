@@ -97,6 +97,7 @@ E-Commerce Profitability & Sales Performance Dashboard/
 ## 📊 Dashboard Preview
 
 <p align="center">
+  
 ### Executive Overview
 <img src="PowerBI/executive_overview.png" width="800"/>
 
