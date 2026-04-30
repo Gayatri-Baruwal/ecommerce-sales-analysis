@@ -58,7 +58,9 @@ E-Commerce Profitability & Sales Performance Dashboard/
 │
 ├── PowerBI/
 │   ├── FinalECommerce.pbix
-│   └── dashboard_screenshot.png
+│   ├── executive_overview.png  
+│   ├── sales_customers.png  
+│   └── profitability.png
 │
 ├── README.md
 ```
@@ -84,15 +86,20 @@ E-Commerce Profitability & Sales Performance Dashboard/
 
 ### 4️⃣ Dashboard Development (Power BI)
 
-* Designed an **interactive dashboard** for stakeholders
-* Enabled quick decision-making
-
+* Designed a **3-page interactive dashboard** for stakeholders:
+  * **Executive Overview** – High-level KPIs, revenue, and profit trends
+  * **Sales & Customers** – Customer behavior, segmentation, and sales performance
+  * **Profitability Analysis** – Category, sub-category, and regional profit insights
+* Enabled quick and data-driven decision-making
+  
 ---
 
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="PowerBI/dashboard_screenshot.png" width="800"/>
+  <img src="PowerBI/executive_overview.png" width="800"/>
+  <img src="PowerBI/sales_customers.png" width="800"/>
+  <img src="PowerBI/profitability.png" width="800"/>
 </p>
 
 <p align="center">
